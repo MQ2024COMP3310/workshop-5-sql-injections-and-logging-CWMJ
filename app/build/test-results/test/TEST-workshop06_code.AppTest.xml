@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="workshop06_code.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-09T21:28:31" hostname="SCI-10536" time="0.015">
+  <properties/>
+  <testcase name="appHasAGreeting()" classname="workshop06_code.AppTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
